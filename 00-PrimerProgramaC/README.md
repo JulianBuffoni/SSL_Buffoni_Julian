@@ -1,0 +1,1 @@
+Muestro por consola la cadena ingresada por el usuario.
